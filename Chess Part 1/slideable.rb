@@ -15,9 +15,13 @@ module Slideable
 
     def horizontal_dirs 
 
+        HORIZONTAL_AND_VERTICAL_DIRS
+
     end
 
     def diagonal_dirs
+
+        DIAGONAL_DIRS
 
     end
 

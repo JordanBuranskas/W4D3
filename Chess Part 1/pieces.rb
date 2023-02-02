@@ -14,6 +14,8 @@ class Pieces
         @pos = pos
     end
 
+
+
     def valid_moves(pos)
         
     end
